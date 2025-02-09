@@ -23,6 +23,22 @@
       "category": "Educação",
       "price": 1900,
       "createdAt": "2022-07-29T19:10:44.505Z"
+    },
+    {
+      "description": "Desenvolvilmento de App",
+      "price": 10000,
+      "category": "Trabalho",
+      "type": "income",
+      "createdAt": "2025-02-09T16:25:15.322Z",
+      "id": 4
+    },
+    {
+      "description": "Macbook",
+      "price": 10000,
+      "category": "Compra",
+      "type": "outcome",
+      "createdAt": "2025-02-09T17:29:40.756Z",
+      "id": 5
     }
   ]
 }
